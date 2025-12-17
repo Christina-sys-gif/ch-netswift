@@ -1,0 +1,20 @@
+{
+  "welcome": "Bienvenue chez CH NETSWIFT ENTREPRISE",
+  "selectNetwork": "Sélectionnez votre réseau",
+  "selectPackage": "Choisissez un forfait de données",
+  "mtn_gh": "MTN Ghana",
+  "at_gh": "AirtelTigo",
+  "tel_gh": "Telecel Ghana",
+  "login": "Connexion du personnel",
+  "email": "Email",
+  "password": "Mot de passe",
+  "loginBtn": "Se connecter",
+  "logout": "Déconnexion",
+  "disburse": "Distribuer",
+  "phone": "Numéro de téléphone",
+  "confirmPurchase": "Confirmer l'achat",
+  "paymentInitiated": "Paiement lancé !",
+  "transactionId": "ID de transaction",
+  "buyAnother": "Acheter un autre forfait",
+  "back": "← Retour"
+}
